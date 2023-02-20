@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Feb 20 13:57:59 2023
+# Process ID: 75147
+# Current directory: /home/ivris/memrist-pim/memrist-pim.runs/synth_1
+# Command line: vivado -log memristive_and.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source memristive_and.tcl
+# Log file: /home/ivris/memrist-pim/memrist-pim.runs/synth_1/memristive_and.vds
+# Journal file: /home/ivris/memrist-pim/memrist-pim.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source memristive_and.tcl -notrace
