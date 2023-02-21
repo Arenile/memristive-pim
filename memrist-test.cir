@@ -1,0 +1,4 @@
+memristor test
+V1 N001 0 SINE (0 1.0 1 0 0 0)
+X0 N001 0 NC_01 MEM_UMICH
+.end
